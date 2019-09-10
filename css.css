@@ -1,0 +1,13 @@
+.ss-menu-align{
+    width:25% !important;
+}
+
+.img-responsive{
+    width: 100%;
+}
+
+@media screen and (min-width: 767px) {
+    .img-responsive {
+        width: auto;
+    }
+  }
