@@ -16,11 +16,11 @@ body,h1,h2,h3,h4,h5,h6 {
     font-family: "Montserrat", sans-serif !important;
 }
 
-.w3-row-padding img {
+.row-padding img {
     margin-bottom: 12px
 }
 
-.w3-sidebar {
+.sidebar {
     width: 120px !important;
     background: #222 !important;
 }
